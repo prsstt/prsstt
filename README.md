@@ -233,7 +233,3 @@ I'm a Full Stack Developer passionate about building modern web applications. Cu
 ![Xilinx](https://img.shields.io/badge/Xilinx-C20E1A?style=for-the-badge&logo=xilinx&logoColor=white)
 ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-162850?style=for-the-badge&logo=systemverilog&logoColor=white)
 
-## 📊 My GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prsstt&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prsstt&layout=compact&theme=dracula)
